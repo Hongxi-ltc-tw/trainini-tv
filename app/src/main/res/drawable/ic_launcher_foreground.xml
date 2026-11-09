@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Flap card 1 (Red Express) -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M24,30h26v20h-26z" />
+    <!-- Flap card 2 (Time / Dest) -->
+    <path
+        android:fillColor="#27272A"
+        android:pathData="M54,30h30v20h-30z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M59,37h20v6h-20z" />
+    <!-- Flap card 3 (Blue Local) -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M24,56h26v20h-26z" />
+    <!-- Flap card 4 (Time / Dest) -->
+    <path
+        android:fillColor="#27272A"
+        android:pathData="M54,56h30v20h-30z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M59,63h20v6h-20z" />
+    <!-- Split-flap divider lines -->
+    <path
+        android:fillColor="#09090B"
+        android:pathData="M22,39.5h64v1.5h-64z" />
+    <path
+        android:fillColor="#09090B"
+        android:pathData="M22,65.5h64v1.5h-64z" />
+</vector>

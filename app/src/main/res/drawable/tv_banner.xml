@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Deep retro brown/charcoal board background -->
+    <path
+        android:fillColor="#1C1917"
+        android:pathData="M0,0h320v180h-320z" />
+
+    <!-- Outer metallic frame -->
+    <path
+        android:fillColor="#292524"
+        android:pathData="M8,8h304v164h-304z" />
+    <path
+        android:fillColor="#18181B"
+        android:pathData="M14,14h292v152h-292z" />
+
+    <!-- Header bar -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M22,22h276v28h-276z" />
+
+    <!-- Split-flap row 1: Train Type (Red Zi-Qiang), Destination, Time -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M24,60h64v38h-64z" />
+    <path
+        android:fillColor="#27272A"
+        android:pathData="M96,60h96v38h-96z" />
+    <path
+        android:fillColor="#27272A"
+        android:pathData="M200,60h96v38h-96z" />
+
+    <!-- Split-flap row 2: Train Type (Blue Local), Destination, Time -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M24,110h64v38h-64z" />
+    <path
+        android:fillColor="#27272A"
+        android:pathData="M96,110h96v38h-96z" />
+    <path
+        android:fillColor="#27272A"
+        android:pathData="M200,110h96v38h-96z" />
+
+    <!-- Yellow/Amber Flap Text Accents Row 1 -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M108,72h72v14h-72z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M214,72h68v14h-68z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,72h40v14h-40z" />
+
+    <!-- Yellow/Amber Flap Text Accents Row 2 -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M108,122h72v14h-72z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M214,122h68v14h-68z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,122h40v14h-40z" />
+
+    <!-- Horizontal split-flap gap lines across both rows -->
+    <path
+        android:fillColor="#09090B"
+        android:pathData="M22,78h276v2h-276z" />
+    <path
+        android:fillColor="#09090B"
+        android:pathData="M22,128h276v2h-276z" />
+</vector>

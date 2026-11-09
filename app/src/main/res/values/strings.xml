@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">翻牌時刻表 TV</string>
+    <string name="screensaver_name">台鐵翻牌時刻表 (Trainini)</string>
+    <string name="settings_title">翻牌時刻表 TV 設定</string>
+    <string name="default_url">https://trainini.app/?tra=7380</string>
+</resources>
